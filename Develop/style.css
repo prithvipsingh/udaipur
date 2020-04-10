@@ -1,5 +1,16 @@
-
-.navbar-collapse {
+.text-container {
+    background-color: rgba(50, 50, 50, 0.4);
+    border-radius: 25px;
+    font-family: fantasy;
+    color: white;
+    padding: 20px;
+    margin-top: 30px;
+  
+  }
+  .bg-nav{
+      background-color:royalblue;
+  }
+  .navbar-collapse {
     -ms-flex-preferred-size: 100%;
     flex-basis: 100%;
     -ms-flex-positive: 1;
@@ -7,38 +18,25 @@
     -ms-flex-align: center;
     align-items: center;
     font-family: fantasy;
-}
-.navbar-brand{
-font-size: 25px;
-font-family: fantasy;
-}
-body{
-    background-image: url(City-Palace-Udaipur.jpg);
-    background-size: auto;
-    
-}
-h3 {
+  }
+  .navbar-brand {
+    font-size: 25px;
+    font-family: fantasy;
+  }
+  h3 {
     font-size: 40px;
     text-align: left;
     color: wheat;
     font-family: fantasy;
-}
-p {
+  }
+  p {
     margin-left: 10px;
     margin-bottom: 12rpm;
     font-family: fantasy;
     font-size: 20px;
-    color: bisque 
-    
-}
-#history{
-width: 900px;
-height: 100px;  
-float: left;
-margin-top: 300px;
-
-}
-.navbar-toggler {
+    color: bisque;
+  }
+  .navbar-toggler {
     border: none;
     color: rgb(255, 255, 255);
     padding: 15px 32px;
@@ -48,4 +46,4 @@ margin-top: 300px;
     font-size: 16px;
     margin: 4px 2px;
     cursor: pointer;
-}
+  }

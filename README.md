@@ -7,7 +7,6 @@ BOOTSTRAP
 ## User Story 
 targeting tourist, they can get very useful information about udaipur city. 
 
-
 ## Content Source
 
 
