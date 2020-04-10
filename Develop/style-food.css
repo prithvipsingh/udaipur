@@ -1,0 +1,13 @@
+body{
+    background-image: url(rajasthani-thali.jpg);
+}
+p{
+font-family: fantasy;
+color: white;
+margin-top: 20px;
+margin-left: 20px;
+}
+#strong{
+    color: turquoise;
+    font-size: large;
+}
