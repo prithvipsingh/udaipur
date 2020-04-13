@@ -1,3 +1,13 @@
 body{
-    background-image: url(gettyimages-143963291-2048x2048.jpg); 
+    background-image: url(../Images/City-Palace-Udaipur.jpg); 
+}
+.list-group{
+    margin-left: 100px;
+    margin-right: 1000px;
+}
+.list-group-item{
+    font-family: fantasy;
+    color: rosybrown;
+    background-color: white;
+    opacity: 0.9;
 }

@@ -1,5 +1,8 @@
 body {
-  background-image: url(rajasthani-thali.jpg);
+  background-image: url(../Images/Rajasthani-food-Rajasthani-vegetarian-thali.jpg);
+  background-repeat: no-repeat;
+  background-position: bottom left;
+  background-color: lightblue;
 }
  
 
